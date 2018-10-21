@@ -1,0 +1,35 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "TheMartes"
+  subtitle    = "Personal notepad"
+  copyright   = "© 2018"
+
+  cover       = "img/main-bg.jpg"
+  description = "Personal notepad"
+  metaDescription = "Blog venujúci sa technológiám, programovaniu, opensoure-u a IT Trendom"
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "TheMartes_"
+  githubName = "TheMartes"
+
+  author = "Matej Bunček"
+  authorAvatar = "img/avatar.jpg"
+  authorLocation = "Trnava, SK"
+  authorWebsite = "https://themartes.com"
+  authorDescription = "Pracujem ako full-stack developer, mám rád open-source a vo voľnom čase sa snažím vytvárať tento blog."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/posts/:slug/"
