@@ -13,7 +13,7 @@ paginate        = 6
   cover       = "img/main-bg.jpg"
   description = "Personal notepad"
   metaDescription = "Blog venujúci sa technológiám, programovaniu, opensoure-u a IT Trendom"
-  googleAnalytics = ""
+  googleAnalytics = "UA-77423028-2"
   customCSS = []
   RSSLink = ""
 
